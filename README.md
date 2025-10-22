@@ -1,2 +1,148 @@
-# halaman-web-widi-html-dan-css
-web
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halaman Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #aeceff; /* abu muda lembut */
+            color: #333;
+        }
+        nav {
+            background-color: #1e90ff; /* biru cerah */
+            padding: 12px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+            font-size: 16px;
+        }
+        nav a:hover {
+            color: #ffeb3b; /* kuning saat hover */
+        }
+        h1 {
+            color: #0d47a1; /* biru gelap */
+        }
+        section {
+            padding: 25px 40px;
+            background-color: white;
+            margin: 20px auto;
+            max-width: 900px;
+            border-radius: 10px;
+            box-shadow: 0 2px 6px rgba(224, 214, 214, 0.1);
+        }
+        blockquote {
+            background-color: #e3f2fd; /* biru muda lembut */
+            border-left: 5px solid #1e90ff;
+            padding: 10px 15px;
+            font-style: italic;
+        }
+        img {
+            margin-top: 10px;
+            border-radius: 8px;
+        }
+    </style>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home DKV SMK N 2 Balikpapan</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: "Poppins", sans-serif;
+    }
+
+    body {
+      background-color: #f9f9f9;
+    }
+
+    /* NAVBAR */
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: #111;
+      color: white;
+      padding: 10px 30px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+
+    .logo-container {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .logo {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+    }
+
+    .judul {
+      font-weight: 600;
+      font-size: 18px;
+      letter-spacing: 1px;
+    }
+
+    .nav-links {
+      list-style: none;
+      display: flex;
+      gap: 30px;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+      color: white;
+      transition: 0.3s;
+    }
+
+    .nav-links a:hover {
+      color: #00bfff;
+    }
+
+    /* HERO SECTION */
+    .hero {
+      text-align: center;
+      padding: 100px 20px;
+      background: linear-gradient(to right, #00bfff, #4e54c8);
+      color: white;
+    }
+
+    .hero h1 {
+      font-size: 2em;
+      margin-bottom: 10px;
+    }
+
+    .hero p {
+      font-size: 1.1em;
+    }
+  </style>
+</head>
+<body>
+  <nav class="navbar">
+    <div class="logo-container">
+      <img src="logo dkv bulat.png" alt="Logo DKV" class="logo">
+      <span class="judul">Desain Komunikasi Visual</span>
+    </div>
+    <ul class="nav-links">
+      <li><a href="home2.html">Home</a></li>
+      <li><a href="#profil">Profil</a></li>
+      <li><a href="#galeri">Galeri</a></li>
+      <li><a href="#kontak">Kontak</a></li>
+    </ul>
+  </nav>
+  </section>
+</body>
+</html>
