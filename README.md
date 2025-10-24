@@ -141,7 +141,6 @@
       <li><a href="#kontak">Kontak</a></li>
     </ul>
   </nav>
-  </section>
 </body>
 </html>
     <section id="home">
