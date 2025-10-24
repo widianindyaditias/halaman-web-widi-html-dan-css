@@ -29,7 +29,7 @@
         h1 {
             color: #0d47a1; /* biru gelap */
         }
-        section {
+         {
             padding: 25px 40px;
             background-color: white;
             margin: 20px auto;
