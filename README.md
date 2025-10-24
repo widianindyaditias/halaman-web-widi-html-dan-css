@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -49,7 +48,6 @@
             border-radius: 8px;
         }
     </style>
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
