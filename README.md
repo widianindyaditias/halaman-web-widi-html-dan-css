@@ -239,5 +239,4 @@
         <p>
             Halaman Web <b>Widi Anindya Ditias</b> &copy; 2025.
         </p>
-    </section>
 
